@@ -1,0 +1,286 @@
+<html>
+<head>
+	<base href="http://cruises.priceline.com">	
+	<title>Carnival Cruise Lines Ships & Deals at Priceline</title>	
+	<keywords content="Carnival Cruises, Carnival Cruise Lines, Carnival Cruise Ships, Carnival Cruise Deals, Cruise Carnival, Carnival Magic, Carnival Glory, Carnival Dream" />
+	<description content="Save big on a Carnival cruise with cheap cruise deals from Priceline. Find the Carnival Cruise Ship that’s right for you and start cruising Carnival today." />
+	<link href="/includes/stylesheet_y.css" type="text/css" rel="stylesheet" />
+	<link href="/includes/css/desktop/pb_promopage.css" type="text/css" rel="stylesheet" />
+	<link type="text/css" rel="stylesheet" href="/includes/css/desktop/promopage_y.css" />
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<style type="text/css"><!--
+		body {font-family: arial, helvetica, sans-serif;margin: 0;padding: 0;border: 0;outline: 0;font-size: 100%;background: transparent;}
+		.crumbtext {text-size: 11px; color: #333;}
+		.mainColumn {width: 725px; position:relative; z-index:2; margin:-1px; background-color: #FFFFFFF; height:100%; border-right:1px solid #D9D9D9; padding-right: 10px; float: left; text-align: left; }
+		h1.seoheader {margin: 0px; padding: 0px; font-weight:bold; width: 99%; clear: both; float: left;}
+		.productsectionheader, .aboutsectionheader, .morecruisedealssectionheader, .viewalllink {margin: 30px 0px 5px 0px; float:left;}
+		.productsectionheader, .aboutsectionheader {clear:both; width:60.5%; height:25px; padding: 0px;  line-height: 150%;}
+		html > body .productsectionheader, html > body .aboutsectionheader {width: 60.8%; height:31px;}
+	--></style>
+</head> 
+
+<body>
+	<div id="main_content_wrap">
+		<div class="wrap sidebarbgcolor pagePositionXYAxis" id="forceHeight">
+		<!-- Main Column -->
+		<div class="mainColumn" id="forceHeightMain">
+			<link rel="canonical" href="http://cruises.priceline.com/promotion/carnival-cruises.do" />
+			<link rel="alternate" media="only screen and (max-width: 640px)" href="http://cruises.priceline.com/mobile/promotion/carnival-cruises.do" />
+			<div class="promo_seocopy" id="promo_seocopy">
+				<h1 class="seoheader"><em>CARNIVAL CRUISES</em> ... FUN &amp; AFFORDABLE FOR EVERYONE!</h1>
+				<h2 class="seosubheader">Explore Carnival Cruise Ships + Our Unbeatable Deals</h2>
+				<p>A Carnival cruise is one of the best values at sea, especially if you book one of Priceline's amazing deals. It's easy to see why the world's largest fleet is also the most popular - there's something for everyone onboard. Adults can relax with a <strong>spa treatment</strong>, soak or sunbathe in <strong>adults-only</strong> pool areas or enjoy fitness classes like <strong>yoga and Pilates</strong>.</p>
+			</div>
+			<div class="crumbtext">
+				<a href="/" title="Breadcrumbs: Home">Home</a> > <a href="/promotion/cruise-deals.do#cruise-line"  title="Breadcrumbs: Cruise Lines">Cruise Lines</a> > Carnival Cruise Lines
+			</div>
+			<img src="/promotion/page_headers/cruise-lines/carnival/hdr_ccl_y.jpg" border="0" id="header-image-bkgd" style="margin:0 0;padding:0;" />
+			<div class="headercopy" id="pp_header">
+				<div class="header">SAVE UP TO 80% ON CRUISES</div>
+				<div class="subheader">Plus find the hottest deals and special sales</div><br/>
+			</div>
+			<div class="offers" id="offers">
+				<div class="bullets" id="bullets" >
+					<ul style="margin-top: 0px; margin-bottom: 0px">
+						<div class="umbrella_offer_icon" id="umbrella_icon" style="display:none;" title="Exclusive Offer">Exclusive Offer</div>
+						<script language="javascript">
+							if (document.getElementById("umbrella_icon"))
+							if (document.getElementById("umbrella_icon").style.display=="none")
+							document.getElementById("umbrella_icon").style.display="block";
+						</script>
+						<li class="umbrella_offer pricecolor" id='umbrella_offer_1'>
+							<strong><span class="umbrella_offer_text">PRICELINE EXCLUSIVE: <nowrap>
+								<a id='umbrella_offer_link_1' href="#" title="Bonus Offers: PRICELINE EXCLUSIVE: Up to $1,000 in Cruise Cash!" onclick="openBulletPopup(ps_header_Bullets_Umbrella_bulletcopy_013, ps_body_Bullets_Umbrella_bulletcopy_013);" class="inlineContentBullet">Up to $1,000 in Cruise Cash!</a>
+							</nowrap></strong></span>
+						</li>
+						<li class="regular_offer pricecolor" id='regular_offer'>
+							<strong>World's Largest Cruise Sale:  <nowrap>
+								<a id='regular_offer_link_1' href="#" onclick="openBulletPopup(ps_header_Bullets_carnival_cruises_bulletcopy_0, ps_body_Bullets_carnival_cruises_bulletcopy_0);" class="inlineContentBullet">$50 Spending, Free Upgrade & More!</a>
+							</nowrap></strong>
+						</li>
+						<li class="regular_offer pricecolor" id='regular_offer'>
+							<strong>Upgrade Your Fun: <nowrap>
+								<a id='regular_offer_link_2' href="#" onclick="openBulletPopup(ps_header_Bullets_carnival_cruises_bulletcopy_07, ps_body_Bullets_carnival_cruises_bulletcopy_07);" title="Bonus Offers: Upgrade Your Fun: EXCLUSIVE up to 3-Category Upgrade!" class="inlineContentBullet">EXCLUSIVE up to 3-Category Upgrade!</a>
+							</nowrap></strong>
+						</li>
+						<li class="regular_offer pricecolor" id='regular_offer'>
+							<strong>Pack & Go: 
+								<a id='regular_offer_link_3' href="#" onclick="openBulletPopup(ps_header_Bullets_carnival_cruises_bulletcopy_02, ps_body_Bullets_carnival_cruises_bulletcopy_02);" title="Bonus Offers: Pack & Go: Reduced Rates on Last-Minute Sailings – Ends Sunday!" class="inlineContentBullet">Reduced Rates on Last-Minute Sailings – Ends Sunday!</a>
+							</strong>
+						</li>
+						<li class="regular_offer pricecolor" id='regular_offer'>
+							<strong>Limited Time: <nowrap>
+								<a id='regular_offer_link_4' href="#" onclick="openBulletPopup(ps_header_Bullets_carnival_cruises_bulletcopy_09, ps_body_Bullets_carnival_cruises_bulletcopy_09);" title="Bonus Offers: Limited Time: Reduced Single Occupancy Supplement!" class="inlineContentBullet">Reduced Single Occupancy Supplement!</a>
+							</nowrap></strong>
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			<div class="productbar" id="productbar" >
+				<div class="productsectionheader">
+					<span class="productsectiontitle">Recommended Sailings</span>
+				</div>
+				<div class="viewalllink" id="productViewAllLink">View All <a href="/results.do?c=1&sort_by=7" title="View All: Carnival Cruise Lines">Carnivals Cruises</a></div>
+			</div>
+			<a name="Caribbean"></a>
+			<div class="product_collection">
+				<div class="itineraries_header">
+					<div class="product_collection_icon" id="product_collection_icon1">
+						<img alt="Caribbean Carnival Cruises" src="/images_unique/promo/thumbnails/fleet/C_150x50.jpg" border="0" />
+					</div>
+					<div class="price_header" id="price_header1">Caribbean Carnival Cruises</div>
+					<div class="product_collection_info">
+						<div class="product_collection_copy" id="product_collection_copy1">
+							<div class="product_collection_description">
+								<p>Whether you're looking to snorkel, shop duty-free, discover pirate lore and ancient ruins, golf by the sea, or just get a tan, Caribbean Carnival cruises are the most popular voyages. Choose your favorite &quot;Fun Ship&quot; and enjoy a sampling of tropical island paradises, from <b>Jamaica</b> and <b>St. Thomas</b> to <strong>Puerto Rico</strong> and <b>Grand Cayman</b>. Some itineraries also include <strong>Belize</strong>, Mexico's island of <em>Cozumel</em> (near Cancun), and other exotic destinations. Most Caribbean Carnival cruises are 4-, 5-, or 7-night sailings featuring multiple ports and soft-sand beaches. But you'll also experience a taste of the Caribbean onboard your Carnival cruise ship, from the cocktail menu and live music to kids' activities at Camp Carnival and theme parties.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class='oddRow'>
+					<div class="brochureinfo">
+						<div class="brochurename" id="brochurename1_1">
+							<a id="brochurename_link1_1" class="link" href="/sc.do?d=07/28/2014&d2=01/27/2017&i=889253&c=1&v=37&dsc=y" title="Recommended Sailings: Caribbean Carnival Cruises - 5 Night Bahamas ">5 Night Bahamas </a>
+						</div>
+						<span class="pp_brochureprice" id="brochureprice1_1"><em>Brochure price $1,049. Save up to <strong>82 %</strong> off brochure price!</em></span>
+						<span class="cruise_ship_port" id="cruise_ship_port1_1"><em>Carnival Fascination</em></span><span class="portname">, Jacksonville, Florida<br /></span>
+						<span class="reviews" id="reviews1_1">
+							Customer Reviews: 
+							<img src="/images_unique/icon_smile.gif" border="0" align="absmiddle" alt="1 Smile" />
+							<img src="/images_unique/icon_smile.gif" border="0" align="absmiddle" alt="1 Smile" />
+							<img src="/images_unique/icon_smile.gif" border="0" align="absmiddle" alt="1 Smile" />
+							<img src="/images_unique/icon_smile_half.gif" border="0" align="absmiddle" alt=".5 Smiles" />
+							<img src="/images_unique/icon_smile_empty.gif" border="0" align="absmiddle" alt="0 Smiles" width="13" height="12" />
+						</span>
+					</div>
+					<div class="pricing_box">
+						<div class="price_labels">
+							<span class="price_label_int">Interior</span>
+							<span class="price_label_ocean">Oceanview</span>
+							<span class="price_label_balc">Balcony</span>
+							<span class="price_label_suite">Suite</span>
+						</div>
+						<div class="pricing_info">
+							<span class="int_price" id="int_price1_1">$189</span>
+							<span class="ocean_price" id="ocean_price1_1">$229</span>
+							<span class="balc_price" id="balc_price1_1">$509</span>
+							<span class="suite_price" id="suite_price1_1">$569</span>
+						</div>
+					</div>
+					<div class="more_info_button" id="more_info_button1_1">
+						<a id="more_info_button_link1_1" title="Recommended Sailings: Caribbean Carnival Cruises - 5 Night Bahamas  Button" href="/sc.do?d=07/28/2014&d2=01/27/2017&i=889253&c=1&v=37&dsc=y" class="rowbutton pp_view_details">View Details</a>
+				</div>
+				<div class="bonus_offer">
+					<div class="bonus_offer_icon" id="bonus_offer_icon1_1"><img src="/images_unique/java/bonus_icons/bonus_offer_y.gif" border="0" alt="Bonus Offer" /></div>
+					<div class="bonus_offer_row">
+						<span class="bonus_offer_col"><span class="bonus_offer_bulletchar">&#8226;&nbsp;</span><a href="#" onclick="po_Window.Show(event, 'Book Early - lowest possible rates!', 'Book your Carnival cruise now to save more! As a part of the Early Saver or Super Saver program, you are assured the absolute lowest prices on your dream vacation. See terms at time of booking or call for more details. HURRY - SPACE IS LIMITED.', 300); return false;" >Book Early - lowest possible rates!</a></span>
+						<span class="bonus_offer_col"><span class="bonus_offer_bulletchar">&#8226;&nbsp;</span><a href="#" onclick="po_Window.Show(event, 'Up to $1,000 Cruise Cash!', 'EXCLUSIVE: Up to $1,000 in Cruise Cash that you can spend onboard your ship - on spa treatments, food, beverages, etc.! Actual amounts vary based on your net cruise fare, minus taxes and port charges. Offer ends Oct 31. Call us today!', 300); return false;" class="smlink" title="Caribbean Carnival Cruises - 5 Night Bahamas  - Up to $1,000 Cruise Cash!">Up to $1,000 Cruise Cash!</a></span>
+						<span class="suppressbr"><br /></span>
+						<span class="bonus_offer_col"><span class="bonus_offer_bulletchar">&#8226;&nbsp;</span><a href="#" onclick="po_Window.Show(event, 'Great Rates, Upgrades or Onboard Spending - CALL', 'Call to book any stateroom, category 4A &amp; up, on select 2014 - 2015 Carnival Cruise sailings and receive upgrades and up to $50 FREE onboard spending. May not be applicable to all prices shown online (such as Resident, Senior, and Early Saver rates). Not applicable to guarantee category staterooms. Upgrades are based on availability. Other restrictions may apply. Hurry, Ends midnight EST on October 13th!', 300); return false;" class="smlink" title="Caribbean Carnival Cruises - 5 Night Bahamas  - Great Rates, Upgrades or Onboard Spending - CALL">Great Rates, Upgrades or Onboard Spending - CALL</a></span>
+						<span class="bonus_offer_col">&#8226;&nbsp;Up to 3-category upgrade available!</span>
+						<span class="suppressbr"><br /></span>
+						<span class="bonus_offer_col">&#8226;&nbsp;Reduced Rates - Book by Monday!</span><br/>
+					</div>
+				</div>
+			</div>
+			<div class='evenRow'>
+				<div class="brochureinfo">
+					<div class="brochurename" id="brochurename1_1">
+						<a id="brochurename_link1_2" class="link" href="/sc.do?d=03/19/2014&d2=09/18/2016&i=845301&c=1&v=37&dsc=y" title="Recommended Sailings: Caribbean Carnival Cruises - 4 Night Bahamas ">5 Night Bahamas </a>
+					</div>
+					<span class="pp_brochureprice" id="brochureprice1_1">	<em>Brochure price $1,049. Save up to <strong>82 %</strong> off brochure price!</span></em>
+					<span class="cruise_ship_port" id="cruise_ship_port1_1"><em>Carnival Fascination</em></span><span class="portname">, Jacksonville, Florida</span>
+					<span class="reviews" id="reviews1_1">
+						Customer Reviews: <br />
+						<img src="/images_unique/icon_smile.gif" border="0" align="absmiddle" alt="1 Smile" />
+						<img src="/images_unique/icon_smile.gif" border="0" align="absmiddle" alt="1 Smile" />
+						<img src="/images_unique/icon_smile.gif" border="0" align="absmiddle" alt="1 Smile" />
+						<img src="/images_unique/icon_smile_half.gif" border="0" align="absmiddle" alt=".5 Smiles" />
+						<img src="/images_unique/icon_smile_empty.gif" border="0" align="absmiddle" alt="0 Smiles" width="13" height="12" />
+						</span>
+				</div>
+				<div class="pricing_box">
+					<div class="price_labels">
+						<span class="price_label_int">Interior</span>
+						<span class="price_label_ocean">Oceanview</span>
+						<span class="price_label_balc">Balcony</span>
+						<span class="price_label_suite">Suite</span>
+					</div>
+					<div class="pricing_info">
+						<span class="int_price" id="int_price1_1">$189</span>
+						<span class="ocean_price" id="ocean_price1_1">$229</span>
+						<span class="balc_price" id="balc_price1_1">$509</span>
+						<span class="suite_price" id="suite_price1_1">$569</span>
+					</div>
+				</div>
+					<div class="more_info_button" id="more_info_button1_1">
+						<a id="more_info_button_link1_1" title="Recommended Sailings: Caribbean Carnival Cruises - 5 Night Bahamas  Button" href="/sc.do?d=07/28/2014&d2=01/27/2017&i=889253&c=1&v=37&dsc=y" class="rowbutton pp_view_details">View Details</a>
+					</div>
+					<div class="bonus_offer">
+						<div class="bonus_offer_icon" id="bonus_offer_icon1_1"><img src="/images_unique/java/bonus_icons/bonus_offer_y.gif" border="0" alt="Bonus Offer" /></div>
+						<div class="bonus_offer_row">
+							<span class="bonus_offer_col"><span class="bonus_offer_bulletchar">&#8226;&nbsp;</span><a href="#" onclick="po_Window.Show(event, 'Book Early - lowest possible rates!', 'Book your Carnival cruise now to save more! As a part of the Early Saver or Super Saver program, you are assured the absolute lowest prices on your dream vacation. See terms at time of booking or call for more details. HURRY - SPACE IS LIMITED.', 300); return false;" title="Caribbean Carnival Cruises - 5 Night Bahamas  - Book Early - lowest possible rates!">Book Early - lowest possible rates!</a></span>
+							<span class="bonus_offer_col"><span class="bonus_offer_bulletchar">&#8226;&nbsp;</span><a href="#" onclick="po_Window.Show(event, 'Up to $1,000 Cruise Cash!', 'EXCLUSIVE: Up to $1,000 in Cruise Cash that you can spend onboard your ship - on spa treatments, food, beverages, etc.! Actual amounts vary based on your net cruise fare, minus taxes and port charges. Offer ends Oct 31. Call us today!', 300); return false;" class="smlink" title="Caribbean Carnival Cruises - 5 Night Bahamas  - Up to $1,000 Cruise Cash!">Up to $1,000 Cruise Cash!</a></span>
+							<span class="bonus_offer_col"><span class="bonus_offer_bulletchar">&#8226;&nbsp;</span><a href="#" onclick="po_Window.Show(event, 'Great Rates, Upgrades or Onboard Spending - CALL', 'Call to book any stateroom, category 4A &amp; up, on select 2014 - 2015 Carnival Cruise sailings and receive upgrades and up to $50 FREE onboard spending. May not be applicable to all prices shown online (such as Resident, Senior, and Early Saver rates). Not applicable to guarantee category staterooms. Upgrades are based on availability. Other restrictions may apply. Hurry, Ends midnight EST on October 13th!', 300); return false;" class="smlink" title="Caribbean Carnival Cruises - 5 Night Bahamas  - Great Rates, Upgrades or Onboard Spending - CALL">Great Rates, Upgrades or Onboard Spending - CALL</a></span>
+						<span class="bonus_offer_col">&#8226;&nbsp;Up to 3-category upgrade available!</span>
+						<span class="suppressbr"><br /></span>
+						<span class="bonus_offer_col">&#8226;&nbsp;Reduced Rates - Book by Monday!</span><br/>
+					</div>
+				</div>
+			</div>
+			<div class='evenRow'>
+				<div class="brochureinfo">
+				<div class="brochurename" id="brochurename1_2"></div>
+					<span class="pp_brochureprice" id="brochureprice1_2"><em>Brochure price $899. Save up to <strong>82 %</strong> off brochure price!</em><br /></span>
+					<span class="cruise_ship_port" id="cruise_ship_port1_2"><em>Carnival Fascination</em></span><span class="portname">, Jacksonville, Florida<br /></span>
+					<span class="reviews" id="reviews1_2">
+						Customer Reviews:
+						<img src="/images_unique/icon_smile.gif" />
+						<img src="/images_unique/icon_smile.gif" />
+						<img src="/images_unique/icon_smile.gif" />
+						<img src="/images_unique/icon_smile_half.gif" />
+						<img src="/images_unique/icon_smile_empty.gif" />
+					</span><br />
+				</div>
+				<div class="pricing_box">
+					<div class="price_labels">
+						<span class="price_label_int">Interior</span>
+						<span class="price_label_ocean">Oceanview</span>
+						<span class="price_label_balc">Balcony</span>
+						<span class="price_label_suite">Suite</span>
+					</div>
+					<div class="pricing_info">
+						<span class="int_price" id="int_price1_2">$160</span>
+						<span class="ocean_price" id="ocean_price1_2">$200</span>
+						<span class="balc_price" id="balc_price1_2">$429</span>
+						<span class="suite_price" id="suite_price1_2">$529</span>
+					</div>
+				</div>
+				<div class="more_info_button" id="more_info_button1_2">
+					<a id="more_info_button_link1_2" title="Recommended Sailings: Caribbean Carnival Cruises - 4 Night Bahamas  Button" href="/sc.do?d=03/19/2014&d2=09/18/2016&i=845301&c=1&v=37&dsc=y" class="rowbutton pp_view_details">View Details</a>
+				</div>
+				<div class="bonus_offer">
+					<div class="bonus_offer_icon" id="bonus_offer_icon1_2">
+						<img src="/images_unique/java/bonus_icons/bonus_offer_y.gif" border="0" />
+					</div>
+				</div>
+			</div>
+			<div class="product_collection_ports">
+				<img alt="Caribbean Carnival Cruises" src="/images_unique/promo/thumbnails/fleet/C_150x100.jpg" /><br/>
+				<div class="departure_port_box">
+					<div class="departure_port_title">Departure Ports for Caribbean Carnival Cruises:</div>
+					<div class="departure_port">
+						<a id="departure_port_link1_1_1" class="smlink" href="/results.do?places=C&c=1&p=BWI" title="Recommended Sailings: Caribbean Carnival Cruises Ports - Baltimore, MD">Baltimore, MD</a><br />
+						<a id="departure_port_link1_1_2" class="smlink" href="/results.do?places=C&c=1&p=CHS" title="Recommended Sailings: Caribbean Carnival Cruises Ports - Charleston, SC">Charleston, SC</a><br />
+						<a id="departure_port_link1_1_3" class="smlink" href="/results.do?places=C&c=1&p=FLL" title="Recommended Sailings: Caribbean Carnival Cruises Ports - Fort Lauderdale, FL">Fort Lauderdale, FL</a><br />
+						<a id="departure_port_link1_1_4" class="smlink" href="/results.do?places=C&c=1&p=GAL" title="Recommended Sailings: Caribbean Carnival Cruises Ports - Galveston, TX">Galveston, TX</a><br />
+						<a id="departure_port_link1_1_5" class="smlink" href="/results.do?places=C&c=1&p=GAL" title="Recommended Sailings: Caribbean Carnival Cruises Ports - Miami, FL">Miami, FL</a><br />
+					</div>
+				<div class="departure_port" id="departure_port_hb1_2_6">
+							<a id="departure_port_link1_2_1" class="smlink" href="/results.do?places=C&c=1&p=MSY" title="Recommended Sailings: Caribbean Carnival Cruises Ports - New Orleans, LA">New Orleans, LA</a><br />
+							<a id="departure_port_link1_2_2" class="smlink" href="/results.do?places=C&c=1&p=NYC" title="Recommended Sailings: Caribbean Carnival Cruises Ports - New York, NY">New York, NY</a><br />
+							<a id="departure_port_link1_2_3" class="smlink" href="/results.do?places=C&c=1&p=PCV" title="Recommended Sailings: Caribbean Carnival Cruises Ports - Port Canaveral, FL">Port Canaveral, FL</a><br />
+							<a id="departure_port_link1_2_4" class="smlink" href="/results.do?places=C&c=1&p=SJU" title="Recommended Sailings: Caribbean Carnival Cruises Ports - San Juan, PR">San Juan, PR</a><br />
+							<a id="departure_port_link1_2_5" class="smlink" href="/results.do?places=C&c=1&p=TPA" title="Recommended Sailings: Caribbean Carnival Cruises Ports - Tampa, FL">Tampa, FL</a><br />
+					</div>
+				</div>
+			</div>
+		</div><br/>
+		
+		<div class="aboutbar">
+			<div class="aboutsectionheader"><span class="aboutsectiontitle">About Carnival Cruise Lines</span></div>
+			<div class="viewalllink" id="aboutViewAllLink">View All <a href="/results.do?c=1&sort_by=7" title="View All: Carnival Cruise Lines">Carnivals Cruises</a></div>
+		</div>
+		<div class="about">
+			<div class="seocopy" id="seocopy"></div>
+			<script type="text/javascript">
+				if (document.getElementById('promo_seocopy')) {
+					document.getElementById('seocopy').innerHTML=document.getElementById('promo_seocopy').innerHTML;
+				}
+			</script>
+			<div class="destinationinfo">
+				<div class="destinationinfo_header"><strong>Search Carnival Cruise Destinations</div></b>
+				<div class="destinationinfo_col" id="destinationinfo_col1">
+					<a href="/results.do?places=AR&c=1" class="smlink" id="destination_1_1"  title="Search: Alaska - Inside Passage">Alaska - Inside Passage</a> from $699<br />
+					<a href="/results.do?places=BH&c=1" class="smlink" id="destination_1_2"  title="Search: Bahamas">Bahamas</a> from $129<br />
+					<a href="/results.do?places=BM&c=1" class="smlink" id="destination_1_3"  title="Search: Bermuda">Bermuda</a> from $479<br />
+					<a href="/results.do?places=NN&c=1" class="smlink" id="destination_1_4"  title="Search: Canada/New England/NY">Canada/New England/NY</a> from $459<br />
+					<a href="/results.do?places=CE&c=1" class="smlink" id="destination_1_5"  title="Search: Caribbean - Eastern">Caribbean - Eastern</a> from $169<br />
+					<a href="/results.do?places=CS&c=1" class="smlink" id="destination_1_6"  title="Search: Caribbean - Southern">Caribbean - Southern</a> from $329<br />
+					<a href="/results.do?places=CW&c=1" class="smlink" id="destination_1_7"  title="Search: Caribbean - Western">Caribbean - Western</a> from $149<br />
+				</div>
+				<div class="destinationinfo_col" id="destinationinfo_col2">
+					<a href="/results.do?places=CN&c=1" class="smlink" id="destination_2_1"  title="Search: Cruise to Nowhere">Cruise to Nowhere</a> from $439<br />
+					<a href="/results.do?places=H&c=1" class="smlink" id="destination_2_2"  title="Search: Hawaii">Hawaii</a> from $949<br />
+					<a href="/results.do?places=M&c=1" class="smlink" id="destination_2_3"  title="Search: Mexico">Mexico</a> from $119<br />
+					<a href="/results.do?places=T&c=1" class="smlink" id="destination_2_4"  title="Search: Panama Canal">Panama Canal</a><br />
+					<a href="/results.do?places=I&c=1" class="smlink" id="destination_2_5"  title="Search: South Pacific">South Pacific</a><br />
+					<a href="/results.do?places=NA&c=1" class="smlink" id="destination_2_6"  title="Search: U.S.">U.S.</a> from $439<br /><br />
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
